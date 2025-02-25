@@ -11,32 +11,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Find New Clients',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Leadodo helps web designers find businesses with outdated websites and reach out to them effectively.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Best Practices & Setup',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Step-by-step guidance on how to install, configure, and optimize Leadodo for the best results.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Customization & Settings',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Adjust settings to tailor Leadodo to your specific needs and ensure maximum efficiency.
       </>
     ),
   },

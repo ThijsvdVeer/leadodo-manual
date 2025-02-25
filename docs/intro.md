@@ -1,47 +1,28 @@
 ---
 sidebar_position: 1
 ---
+# Leadodo Manual Intro
 
-# Tutorial Intro
+Welcome, Please read each chapter of this manual thoroughly to ensure your success with Leadodo. It covers most issues, best practices and thing you should and should not do to have a great time and sign new clients.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Download application
 
-## Getting Started
+Get started by downloading our application.
 
-Get started by **creating a new site**.
+You can **download** the application using the links below:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### [MacOS](https://leadodo-updates.s3.eu-north-1.amazonaws.com/1.0.0/macos/Leadodo.dmg)
 
-### What you'll need
+### [Windows](https://leadodo-updates.s3.eu-north-1.amazonaws.com/1.0.0/windows/Leadodo_Installer.exe)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Important information
 
-## Generate a new site
+**Note:** I have purchased developer signatures for both MacOS and Windows, which are currently in the process of being applied. Until they are fully integrated, you may encounter a message indicating that the application is untrusted.
 
-Generate a new Docusaurus site using the **classic template**.
+For **Windows** users:
+https://www.loom.com/share/2f8db950398f4736aaf8a1f18daed10a?sid=f28f0a29-a5c6-43de-af10-e39cdd2e939a
 
-The classic template will automatically be added to your project after you run the command:
+For **MacOS** users: Please refer to this video for guidance on how to proceed:
+https://www.loom.com/share/1f08b8d742ee47988bd6d665952ba31f?sid=25a82da2-0455-4982-9fcb-32977f74fcba
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+* Terminal command: /Applications/Leadodo.app/Contents/MacOS/Leadodo

@@ -40,8 +40,6 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/ThijsvdVeer/manual-leadodo/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -51,9 +49,6 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/ThijsvdVeer/manual-leadodo/tree/main/',
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -69,9 +64,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Leadodo',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Leadodo Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -132,7 +127,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Leadodo. Built with Love.`,
     },
     prism: {
       theme: prismThemes.github,

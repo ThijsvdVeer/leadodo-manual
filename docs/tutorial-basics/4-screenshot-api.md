@@ -1,8 +1,7 @@
 ---
 sidebar_position: 5
 ---
-
-# Deploy your site
+# 4. Screenshot API
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 

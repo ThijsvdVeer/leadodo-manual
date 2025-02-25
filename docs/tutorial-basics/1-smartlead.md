@@ -1,8 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
-
-# Create a Blog Post
+# 1. Smartlead
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
@@ -10,7 +9,7 @@ Docusaurus creates a **page for each blog post**, but also a **blog index page**
 
 Create a file at `blog/2021-02-28-greetings.md`:
 
-```md title="blog/2021-02-28-greetings.md"
+```md
 ---
 slug: greetings
 title: Greetings!
