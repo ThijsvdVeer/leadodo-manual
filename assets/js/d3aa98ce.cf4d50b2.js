@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_leadodo_2=self.webpackChunkmanual_leadodo_2||[]).push([[7305],{1136:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/manual-leadodo/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
