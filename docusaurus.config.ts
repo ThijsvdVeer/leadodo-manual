@@ -61,6 +61,12 @@ const config: Config = {
   ],
 
   themeConfig: {
+    // ... other themeConfig options
+    colorMode: {
+      defaultMode: 'dark', // sets dark mode as default
+      disableSwitch: false, // disables the user from switching to light mode
+      respectPrefersColorScheme: false,
+    },
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
@@ -77,11 +83,11 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/ThijsvdVeer/manual-leadodo',
-          label: 'GitHub',
-          position: 'right',
-        },
+        //{
+        //  href: 'https://github.com/ThijsvdVeer/manual-leadodo',
+        //  label: 'GitHub',
+        //  position: 'right',
+        //},
       ],
     },
     footer: {

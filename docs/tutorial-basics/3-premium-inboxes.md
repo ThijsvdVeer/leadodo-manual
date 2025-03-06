@@ -3,31 +3,10 @@ sidebar_position: 3
 ---
 # 3. Permium inboxes
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Next up, purchase your Google Workspace email accounts. We use Google because it delivers the best inbox placement—meaning more of your emails land in your contacts' primary inbox rather than the spam folder. This is key in lead generation.
 
-## Create your first Post
+Each account costs about $6 to $8 normally, but we work with trusted Google Resellers to make setup easy. Follow their instructions to get your accounts up and running. Our Google Reseller is called Premium Inboxes where each account only cost $3,5 per account while they also do all the work as adding Complete technical setup (DKIM, DMARC, MX Records, SPF, Custom Domain Tracking, and Domain Forwarding).
 
-Create a file at `blog/2021-02-28-greetings.md`:
+## Getting started:
 
-```md
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
-
-Congratulations, you have made your first post!
-
-Feel free to play around and edit this post as much as you like.
-```
-
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+Go to: [Permium inboxes](https://premiuminboxes.com?fpr=leadodo) (Clickable)
