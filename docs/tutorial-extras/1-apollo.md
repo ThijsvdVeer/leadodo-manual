@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
-# Manage Docs Versions
+# 1. Apollo.io 
 
 Docusaurus can manage multiple versions of your docs.
 
@@ -27,7 +26,7 @@ To navigate seamlessly across versions, add a version dropdown.
 
 Modify the `docusaurus.config.js` file:
 
-```js title="docusaurus.config.js"
+```js
 export default {
   themeConfig: {
     navbar: {

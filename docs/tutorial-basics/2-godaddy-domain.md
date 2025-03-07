@@ -7,18 +7,30 @@ Your next step is to secure your domains through GoDaddy. Follow these instructi
 
 ## Create a New Account
 
-Sign up for a **new** GoDaddy account. Be sure to set a **generic, unique password** for this account.
+Sign up for a **new GoDaddy** account. Be sure to set a **generic, unique password** for this account. 
+
+
+:::caution
+
+Not using GoDaddy could cost you your campaign
+
+:::
 
 ## Register Your Domains
 
-Choose **5**, lookalike domain names. For example, if your primary domain is **Dazze.Studio**, choose domains such as:
+Choose **5**, lookalike domain names. For example, if your primary domain is **tv-design.com**, choose domains such as:
 
-* dazze-studio.com
-* dazze-agency.com
-* dazze-web.com
-* dazze-design.com
-* dazze-dev.com
+* **tv-studio.com**
+* **tv-agency.com**
+* **tv-web.com**
+* **tv-studio.com**
+* **tv-dev.com**
 
-## Keep It Trustworthy
+## Setting up a clean deployment:
 
-Use domains with a .com or .co extension and avoid overly long names to ensure they look professional.
+* **Invest in .com** domains or the best available alternative only.
+  * Buying a cheap extension like `.info` or `.click` may seem like a savvy purchase until you find out the AI machine learning filters at Google and Microsoft know the highest spam volume comes from the cheapest domains and then sentence yours to the spam folder.
+* **Keep domains classy.**
+  * How a address looks does not have a direct effect on deliverability.
+  * However, if your senders look something like `bobby32@getmoneyswagaccelerator-online.net` people will get the ick and be more prone to distrusting you.
+  * That means you lost the click and the algos at Google and Microsoft will think you're sending undesirable unsolicited mail.

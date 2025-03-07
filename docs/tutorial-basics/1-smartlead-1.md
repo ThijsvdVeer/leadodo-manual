@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# [1. Smartlead](https://smartlead.ai/?via=leadodo)
+# 1. Smartlead
 
 [Visit Smartlead](https://smartlead.ai/?via=leadodo)
 
