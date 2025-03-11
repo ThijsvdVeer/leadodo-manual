@@ -19,9 +19,7 @@ If you don’t have an OpenAI account yet, create one.
 
 * After signing up, OpenAI will prompt you to generate an API key.
 * Enter a relevant name for your API key and click “Create.”
-* You’ll receive a key similar to this example:
-
-  `sk-proj-sotD0bMdXf5T5VaCNS_40FkjYU90Ov88I-V84ibLsInwQ37op3qwYQBhy_F9lCTVmKkckKP4BaT3BlbkFJfdwyqSkkVn6WmBdmiCr2DkMtqwvjZUbfsdjkbndsfkjUq_QNJKNQWKnsdajkndkasn `
+* You’ll receive a key
 
 :::caution
 
