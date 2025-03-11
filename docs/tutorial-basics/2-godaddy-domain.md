@@ -7,8 +7,7 @@ Your next step is to secure your domains through GoDaddy. Follow these instructi
 
 ## Create a New Account
 
-Sign up for a **new GoDaddy** account. Be sure to set a **generic, unique password** for this account. 
-
+Sign up for a **new GoDaddy** account. Be sure to set a **generic, unique password** for this account.
 
 :::caution
 
