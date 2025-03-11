@@ -1,20 +1,50 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 ---
-# 5. OpenAI
+# 5. OpenAI API Setup
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Now, let's set up your OpenAI API key.
 
-Docusaurus has **much more to offer**!
+## Getting Started
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+### Go to the OpenAI Platform:
 
-## What's next?
+Visit: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+### Log In or Sign Up:
+
+If you don’t have an OpenAI account yet, create one.
+
+### **Generate Your API Key:**
+
+* After signing up, OpenAI will prompt you to generate an API key.
+* Enter a relevant name for your API key and click “Create.”
+* You’ll receive a key similar to this example:
+
+  `sk-proj-sotD0bMdXf5T5VaCNS_40FkjYU90Ov88I-V84ibLsInwQ37op3qwYQBhy_F9lCTVmKkckKP4BaT3BlbkFJfdwyqSkkVn6WmBdmiCr2DkMtqwvjZUbfsdjkbndsfkjUq_QNJKNQWKnsdajkndkasn `
+
+:::caution
+
+**Important:** Store your API key securely. Never share it with anyone.
+
+:::
+
+### Activate Your Account
+
+* **Deposit at least $5** to enter **Tier 1** and unlock access.
+* Each analysis of **10,000 companies costs about $50.**
+
+| Tier   | RPM    | TPM     |
+| ------ | ------ | ------- |
+| Free   |        |         |
+| Tier 1 | 500    | 30K     |
+| Tier 2 | 5.000  | 450K    |
+| Tier 3 | 5.000  | 800K    |
+| Tier 4 | 10.000 | 2.000K  |
+| Tier 5 | 10.000 | 30.000K |
+
+### OpenAI Pricing
+
+* **Input (1M tokens):** $2.50
+* **Output (1M tokens):** $10.00
+* Each campaign uses a varying number of tokens based on data volume.

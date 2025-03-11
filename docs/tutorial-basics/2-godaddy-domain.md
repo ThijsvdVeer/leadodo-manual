@@ -5,15 +5,21 @@ sidebar_position: 2
 
 Your next step is to secure your domains through GoDaddy. Follow these instructions.
 
+<iframe width="570" height="385" 
+    src="https://www.youtube.com/embed/bpzUPG9s4VU" 
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
 ## Create a New Account
 
 Sign up for a **new GoDaddy** account. Be sure to set a **generic, unique password** for this account.
 
 :::caution
 
-Not using GoDaddy could cost you your campaign
+Using GoDaddy is very important
 
 :::
+
 
 ## Register Your Domains
 
