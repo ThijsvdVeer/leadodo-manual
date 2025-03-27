@@ -64,7 +64,7 @@ const config: Config = {
     // ... other themeConfig options
     colorMode: {
       defaultMode: 'dark', // sets dark mode as default
-      disableSwitch: false, // disables the user from switching to light mode
+      disableSwitch: true, // disables the user from switching to light mode
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card

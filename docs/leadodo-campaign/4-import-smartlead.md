@@ -1,8 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
-
-# Translate your site
+# Step 4: Import Smartlead
 
 Let's translate `docs/intro.md` to French.
 
@@ -10,7 +9,7 @@ Let's translate `docs/intro.md` to French.
 
 Modify `docusaurus.config.js` to add support for the `fr` locale:
 
-```js title="docusaurus.config.js"
+```js
 export default {
   i18n: {
     defaultLocale: 'en',
@@ -53,7 +52,7 @@ To navigate seamlessly across languages, add a locale dropdown.
 
 Modify the `docusaurus.config.js` file:
 
-```js title="docusaurus.config.js"
+```js
 export default {
   themeConfig: {
     navbar: {
