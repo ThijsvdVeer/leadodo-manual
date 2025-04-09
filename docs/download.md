@@ -16,7 +16,7 @@ You can **download** the application using the links below:
         x64 Arm64
       </div>
       <div>
-        <a href="https://leadodo-updates.s3.eu-north-1.amazonaws.com/1.0.0/windows/Leadodo_Installer.exe" style={{ 
+        <a href="https://leadodo-updates.s3.eu-north-1.amazonaws.com/LeadodoInstallerWindows/LeadodoSetup.exe" style={{ 
           color: '#40BFB9', 
           fontWeight: 'bold',
           textDecoration: 'none'
@@ -59,16 +59,3 @@ You can **download** the application using the links below:
     </td>
   </tr>
 </table>
-
-### Important information
-
-**Note:** I have purchased developer signatures for Windows, which are currently in the process of being applied. Until they are fully integrated, you may encounter a message indicating that the application is untrusted.
-
-:::caution
-
-**Important:** If you're using Windows, make sure to open the Leadodo app as an administrator.
-
-:::
-
-For **Windows** users:
-https://www.loom.com/share/2f8db950398f4736aaf8a1f18daed10a?sid=f28f0a29-a5c6-43de-af10-e39cdd2e939a
