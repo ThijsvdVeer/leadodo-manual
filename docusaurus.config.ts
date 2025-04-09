@@ -19,7 +19,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ThijsvdVeer', // Usually your GitHub org/user name.
-  projectName: 'manual-leadodo', // Usually your repo name.
+  projectName: 'leadodo-manual', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -128,7 +128,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/ThijsvdVeer/manual-leadodo',
+              href: 'https://github.com/ThijsvdVeer/leadodo-manual',
             },
           ],
         },
