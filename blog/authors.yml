@@ -1,9 +1,11 @@
-yangshun:
+thijs:
   name: Thijs van der Veer
   title: Founder @ Facebook
   url: https://leadodo.ai
-  image_url: https://github.com/yangshun.png
+  image_url: https://github.com/thijsvdveer.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: thijsvdveer
+    github: ThijsvdVeer
+    youtube: LeadodoAI
+    linkedin: thijs-van-der-veer

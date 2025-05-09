@@ -1,87 +1,73 @@
 ---
 sidebar_position: 4
 ---
-# Step 4: Import Smartlead
 
-Let's translate `docs/intro.md` to French.
+# Step 4: Import into Smartlead
 
-## Configure i18n
+Now that your analysis is complete and you have your `Leadodo-final.csv` file ready, it’s time to upload it into **Smartlead** to launch your cold outreach campaign.
 
-Modify `docusaurus.config.js` to add support for the `fr` locale:
-
-```js
-export default {
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
-  },
-};
-```
-
-## Translate a doc
-
-Copy the `docs/intro.md` file to the `i18n/fr` folder:
-
-```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
-
-cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
-```
-
-Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
-
-## Start your localized site
-
-Start your site on the French locale:
-
-```bash
-npm run start -- --locale fr
-```
-
-Your localized site is accessible at [http://localhost:3000/fr/](http://localhost:3000/fr/) and the `Getting Started` page is translated.
+This step is quick and straightforward.
 
 :::caution
+**Important:**  
+Before importing your list into Smartlead, make absolutely sure your CSV contains **only verified “good” emails**.  
 
-In development, you can only use one locale at a time.
+Using unverified, risky, or invalid emails can result in high bounce rates — which will damage your inbox reputation and get your domain flagged.  
 
+If you haven’t verified your list yet, go back to [Step 2-1: MillionVerifier](/docs/leadodo-campaign/2-1-million-verifier) before continuing.
 :::
 
-## Add a Locale Dropdown
+---
 
-To navigate seamlessly across languages, add a locale dropdown.
+## 🧭 Step-by-Step Instructions
 
-Modify the `docusaurus.config.js` file:
+### 1. Log in to Smartlead
 
-```js
-export default {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'localeDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
+👉 Go to [https://smartlead.ai](https://smartlead.ai) and sign in to your account.
 
-The locale dropdown now appears in your navbar:
+---
 
-![Locale Dropdown](./img/localeDropdown.png)
+### 2. Create a New Campaign
 
-## Build your localized site
+- In the top-right corner, click **“Create Campaign”**.
 
-Build your site for a specific locale:
+---
 
-```bash
-npm run build -- --locale fr
-```
+### 3. Upload Your File
 
-Or build your site to include all the locales at once:
+- When prompted, upload the `Leadodo-final.csv` file (this was generated after the analysis in Step 3).
+- A popup will appear with settings to import banned leads — here, just press **Save**.
 
-```bash
-npm run build
-```
+---
+
+## 🔄 4. Map Your Fields
+
+Next, you’ll be asked to **map your column names** from the CSV file to Smartlead’s fields. This step is essential to ensure the personalization works correctly.
+
+Here’s how to map the fields:
+
+| CSV Column              | Map To in Smartlead     |
+|--------------------------|--------------------------|
+| `Email`                  | Email                    |
+| `First_Name`             | First Name               |
+| `Last_Name`              | Last Name                |
+| `Business_Name_New`      | Company Name             |
+| `Website`                | Website                  |
+| `Opening_Sentence`       | Custom Field             |
+| `Worst_Metrics`          | Custom Field             |
+| `Research_Statement`     | Custom Field             |
+| Any extra fields         | Custom Field             |
+
+✅ Use **Custom Field** for anything extra you want to keep and reference in your email copy.
+
+Also Linkedin Url you can import ofcource.
+
+On the top-left you can put a name for the campaign.
+
+Once all fields are matched correctly, click **Save & Next** to finish the import.
+
+A popup will apear, you can press Skip & proceed, because we already done our vertifications.
+
+---
+
+You’ve now successfully added your leads into Smartlead — next up, you’ll configure your campaign copy, settings and schedule your emails.

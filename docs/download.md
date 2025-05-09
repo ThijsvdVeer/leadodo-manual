@@ -16,7 +16,7 @@ You can **download** the application using the links below:
         x64 Arm64
       </div>
       <div>
-        <a href="https://leadodo-updates.s3.eu-north-1.amazonaws.com/LeadodoInstallerWindows/1.1.0/LeadodoSetup.exe" style={{ 
+        <a href="https://leadodo-updates.s3.eu-north-1.amazonaws.com/LeadodoInstallerWindows/1.1.2/LeadodoSetup.exe" style={{ 
           color: '#40BFB9', 
           fontWeight: 'bold',
           textDecoration: 'none'
