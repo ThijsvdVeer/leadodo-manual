@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_leadodo_2=self.webpackChunkmanual_leadodo_2||[]).push([[8121],{8070:t=>{t.exports=JSON.parse('{"tags":[{"label":"introduction","permalink":"/blog/tags/introduction","count":1},{"label":"getting-started","permalink":"/blog/tags/getting-started","count":1}]}')}}]);

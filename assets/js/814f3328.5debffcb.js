@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_leadodo_2=self.webpackChunkmanual_leadodo_2||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the Leadodo Manual","permalink":"/blog/welcome","unlisted":false,"date":"2025-05-09T00:00:00.000Z"}]}')}}]);
